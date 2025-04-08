@@ -1,0 +1,283 @@
+{
+  "tarihiYerler": [
+    {
+      "imageUrl": "https://i.pinimg.com/736x/91/39/fe/9139fe840c3e99eb3e2f53925baa50ac.jpg",
+      "name": "Topkapı Sarayı",
+      "description": "Topkapı Sarayı, Osmanlı İmparatorluğu’nun yaklaşık 400 yıl boyunca yönetim merkezi olmuştur. Bugün, Osmanlı İmparatorluğu'nun görkemli geçmişine dair pek çok eser sergileyen bir müze olarak kullanılmaktadır.",
+      "address": "Cankurtaran, 34122 Fatih/İstanbul",
+      "girisUcreti": "Yerli Ziyaretçi : 350 TL \n Yabancı Ziyaretçi: 2000 TL \n İndirimli Bilet: 150 TL"
+
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/44/e5/a7/44e5a7cc8a76343317fcd59b0a31d95b.jpg",
+      "name": "Ayasofya",
+      "description": "Ayasofya, Bizans İmparatoru I. Justinianus tarafından 537 yılında kilise olarak inşa edilmiştir. 1453 yılında Osmanlı'nın İstanbul'u fethetmesinin ardından camiye dönüştürülmüş, günümüzde hem cami hem de müze olarak kullanılmaktadır.",
+      "address": "Sultanahmet, Ayasofya Meydanı, 34122 Fatih/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/21/fe/b3/21feb3a74d2a15c24384e93a1ef92ccd.jpg",
+      "name": "Sultanahmet Camii",
+      "description": "Sultanahmet Camii, İstanbul’un en önemli dini yapılarından biridir ve özellikle mimarisiyle ünlüdür. İç mekanındaki mavi çiniler, camiye bu ismi kazandırmıştır.",
+      "address": "Sultanahmet, 34122 Fatih/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/17/48/7d/17487ddf3dde52293889dac603dad3fb.jpg",
+      "name": "Galata Kulesi",
+      "description": "1348 yılında Cenevizliler tarafından inşa edilen Galata Kulesi, İstanbul’un en eski yapılarından biridir. Şehir manzarasını yüksekten görebileceğiniz bir gözlem kulesi olarak hizmet vermektedir.",
+      "address": "Bereketzade, Galata Kulesi, 34421 Beyoğlu/İstanbul",
+      "girisUcreti": "Müzekart: Ücretsiz  \n Yerli Ziyaretçi:650 TL \n Yabancı Ziyaretçi:30 Euro \n öğrenci: Ücretsiz (18 yaş altı ve öğretmenler) "
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/02/68/ef/0268ef8b6161857cf7aa365bae666bcb.jpg",
+      "name": "Yerebatan Sarnıcı",
+      "description": "Yerebatan Sarnıcı, Bizans dönemine ait büyük bir su sarnıcıdır. Tarihi su yapıları arasında benzersiz bir konumda olup, içinde büyüleyici bir atmosfer yaratmaktadır.",
+      "address": "Sultanahmet, Yerebatan Caddesi, 34110 Fatih/İstanbul",
+      "girisUcreti": "Yerli Ziyaretci: 200 TL \n Yabancı Ziyaretçi: 800 TL \n Öğrenci: 500 TL"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/01/22/3a/01223a95f2cd02048e5176bf22f03915.jpg",
+      "name": "Dolmabahçe Sarayı",
+      "description": "Dolmabahçe Sarayı, Osmanlı İmparatorluğu’nun son yıllarında kullanılan ve Avrupa mimarisinden etkilenmiş olan bir saraydır. Boğaz manzaralı olan bu saray, görkemli iç mekanlarıyla dikkat çekmektedir.",
+      "address": "Vişnezade, Dolmabahçe Caddesi, 34357 Beşiktaş/İstanbul",
+      "girisUcreti": "Yerli Ziyaretçi : 200 TL \n Yabancı Ziyaretçi: 1500 TL \n İndirimli Bilet: 100 TL"
+
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/76/a0/b1/76a0b1e8459f8d7b803dc0f4fa329134.jpg",
+      "name": "Kız Kulesi",
+      "description": "İstanbul Boğazı’nda yer alan Kız Kulesi, şehri simgeleyen tarihi yapılardan biridir. Birçok efsaneye ev sahipliği yapan bu kule, deniz üzerinde romantik bir atmosfere sahiptir.",
+      "address": "Salacak, Üsküdar/İstanbul",
+      "girisUcreti":
+        "Müze kart: 75 TL \n Müze Kartsız:27 Euro"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/d0/71/7e/d0717efb4adce27b6111770316724d46.jpg",
+      "name": "Beylerbeyi Sarayı",
+      "description": "Beylerbeyi Sarayı, Osmanlı İmparatorluğu’nun son dönemlerinde padişahlar için yazlık saray olarak inşa edilmiştir. Saray, Boğaz’a nazır konumu ve zarif mimarisiyle dikkat çekmektedir.",
+      "address": "Beylerbeyi, 34676 Üsküdar/İstanbul",
+      "girisUcreti": "Yerli Ziyaretçi: 150 TL \n Yabancı Ziyaretçi: 600 TL İndirimli Bilet: 75 TL"
+    },
+
+    {
+      "imageUrl": "https://i.pinimg.com/736x/9f/03/08/9f030870a06dc6e351906ff5c8fcd149.jpg",
+      "name": "San Antonio Kilisesi",
+      "description": "San Antonio Kilisesi, İstanbul’un en büyük Katolik kiliselerinden biridir. 1906 yılında inşa edilen bu kilise, özellikle Gotik tarzda mimarisiyle dikkat çekmektedir.",
+      "address": "İstiklal Caddesi, Beyoğlu/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/21/ed/f5/21edf58ee35569d50e9e1dd60790f3ab.jpg",
+      "name": "Fener Rum Ortodoks Patrikhanesi",
+      "description": "Fener Rum Ortodoks Patrikhanesi, İstanbul’un Fener semtinde bulunan ve Ortodoks Hristiyan dünyası için önemli bir dini merkezdir. 1453 yılından itibaren İstanbul'da faaliyet gösteren bu patrikhane, tarihsel ve dini açıdan büyük bir öneme sahiptir.",
+      "address": "Balat Mahallesi, Fener, 34087 Fatih/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    }
+  ],
+  "carsilar": [
+    {
+      "imageUrl": "https://i.pinimg.com/736x/6b/82/34/6b82340d5a5ec3771e0b4e776dce361c.jpg",
+      "name": "Kapalı Çarşı",
+      "description": "Dünyanın en büyük ve en eski çarşılarından biridir. 5000'den fazla dükkanla el yapımı halılardan, takılara, giyimden antikalara kadar her şey burada satılmaktadır.",
+      "address": "Beyazıt, 34126 Fatih/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/fa/e8/54/fae854a75c555684e06a22e8be611c4f.jpg",
+      "name": "Mısır Çarşısı (Spice Bazaar)",
+      "description": "İstanbul'un en ünlü baharat çarşısıdır. Burada baharatlar, kuru meyveler, tatlılar ve Türk lokumu gibi hediyelikler alabilirsiniz.",
+      "address": "Rüstem Paşa, 34116 Fatih/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/32/51/bb/3251bba9c8149f25246949bf9a6798ae.jpg",
+      "name": "İstiklal Caddesi",
+      "description": "İstanbul'un en işlek caddelerinden biri olan İstiklal Caddesi, her türlü giyim, ayakkabı, elektronik eşya ve hediyelik ürünlerin bulunduğu mağazalarla doludur.",
+      "address": "Beyoğlu/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/a1/d4/9c/a1d49c6c225ea20b66399e2044e62db2.jpg",
+      "name": "Nişantaşı",
+      "description": "İstanbul'un en lüks alışveriş caddelerinden biri olan Nişantaşı, marka mağazaları, tasarım butikleri ve şık kafeleriyle ünlüdür.",
+      "address": "Nişantaşı, 34363 Şişli/İstanbul",
+      "girisUcreti": "Ücretsiz"
+
+    },
+
+    {
+      "imageUrl": "https://i.pinimg.com/736x/19/58/1f/19581fe62134cb8515edf6ab9dbb26dc.jpg",
+      "name": "Karaköy",
+      "description": "Hem tarihi hem de modern alışveriş mekânlarını bir arada bulabileceğiniz Karaköy, butik mağazalar ve tasarım dükkanlarıyla ünlüdür.",
+      "address": "Karaköy, Beyoğlu/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/17/2c/83/172c838ff0a43db2774bd82ed0626a3e.jpg",
+      "name": "Kadıköy Çarşısı",
+      "description": "Anadolu Yakasında yer alan Kadıköy, hem alışveriş yapmak hem de farklı dükkanları gezmek için ideal bir yerdir. Ayrıca, semtin meyve ve sebze pazarları da oldukça popülerdir.",
+      "address": "Kadıköy/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    }
+  ],
+  "manzaralar": [
+    {
+      "imageUrl": "https://i.pinimg.com/474x/e4/ac/96/e4ac96b0021ae0909efb8f33ab5ce385.jpg",
+      "name": "Belgrad Ormanı",
+      "description": "Doğal yaşam alanlarının korunmuş olduğu bu orman, İstanbul'un şehir gürültüsünden uzaklaşmak isteyenler için ideal bir yerdir.",
+      "address": "Kemerburgaz, Eyüp/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/474x/4b/22/72/4b22729a570783fbbfc386a49259a9d4.jpg",
+      "name": "Çamlıca Tepesi",
+      "description": "İstanbul’un en yüksek tepelerinden biri olan Çamlıca Tepesi, şehri yüksekten görmek için harika bir noktadır.",
+      "address": "Çamlıca, Üsküdar/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/43/d6/b2/43d6b2ca0ab619cd2c35ef580205d2d4.jpg",
+      "name": "Polonezköy Tabiat Parkı",
+      "description": "Polonezköy, İstanbul'a yaklaşık 30 km mesafede olan ve doğal güzellikleriyle ünlü bir bölgedir. Doğayla iç içe vakit geçirmek isteyenler için idealdir.",
+      "address": "Polonezköy, Beykoz/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/9f/7d/ef/9f7defd122248e6000de062879e3172b.jpg",
+      "name": "Pierre Loti Tepesi",
+      "description": "Pierre Loti Tepesi, Haliç manzarası ile ünlüdür ve turistler tarafından sıkça ziyaret edilir. Aynı zamanda bir çay bahçesi ve cafesi de vardır.",
+      "address": "Eyüp Sultan, Eyüp/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/48/23/92/482392b0a95587ba4236f54b53d52fe8.jpg",
+      "name": "Aydos Ormanı",
+      "description": "İstanbul'un en büyük ormanlarından biri olan Aydos Ormanı, şehri keşfetmek ve yürüyüş yapmak için mükemmel bir doğa alanıdır.",
+      "address": "Aydos, Pendik/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/474x/c6/c3/40/c6c340585b771db0f673513a2e7ca62f.jpg",
+      "name": "Fethi Paşa Korusu",
+      "description": "Boğaz manzaralı bu koru, şehri yüksekten izlemek ve doğada huzur bulmak isteyenler için güzel bir alternatiftir.",
+      "address": "Çubuklu, Beykoz/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/05/4e/77/054e77aa413731dd3da1f42cc1f0e717.jpg",
+      "name": "Yıldız Parkı",
+      "description": "Yıldız Parkı, İstanbul’un merkezine yakın bir alanda yer alır ve İstanbul Boğazı’na hakim manzaralar sunar.",
+      "address": "Yıldız, Beşiktaş/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/474x/b1/72/5b/b1725b6e93ebee56a9f3977507d65a57.jpg",
+      "name": "Otağtepe Fatih Korusu",
+      "description": "Fatih Korusu, manzara açısından oldukça güzel bir noktadır ve şehri farklı bir açıdan görmek isteyenler için uygundur.",
+      "address": "Otağtepe, Beykoz/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/736x/8e/8f/f0/8e8ff0f83f1aa6ca5baf71605a047686.jpg",
+      "name": "Atatürk Arboretumu",
+      "description": "Doğal bitki örtüsü ile dikkat çeken Atatürk Arboretumu, yürüyüş yaparak doğanın tadını çıkarabileceğiniz bir yerdir.",
+      "address": "Bahçeköy, Sarıyer/İstanbul",
+      "girisUcreti": "Ücretli"
+    },
+    {
+      "imageUrl": "https://i.pinimg.com/474x/7a/82/0e/7a820e6444c66d0e1f36e18776e6e642.jpg",
+      "name": "Moda Sahili",
+      "description": "Moda Sahili, İstanbul’un en güzel sahil yürüyüş yollarından birine sahiptir ve özellikle akşamları gün batımını izlemek için popülerdir.",
+      "address": "Moda, Kadıköy/İstanbul",
+      "girisUcreti": "Ücretsiz"
+    }
+  ],"eglenceYerleri": [
+  {
+    "imageUrl": "https://i.pinimg.com/736x/09/77/7e/09777ec2e8e4edd0454b5bd5f2b3e976.jpg",
+    "name": "Vialand (Isfanbul)",
+    "description": "İstanbul’un en büyük tema parklarından biridir. Çeşitli hız trenleri, lunapark oyunları ve su kaydırakları ile ailelerin eğlenceli vakit geçirebileceği bir yerdir.",
+    "address": "Yeşilpınar Mah., 34065 Eyüpsultan/İstanbul",
+    "girisUcreti": "Ücretli"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/736x/18/52/ef/1852ef04b2896005d3db2cd0ff82899e.jpg",
+    "name": "Miniatürk",
+    "description": "Türkiye'nin ünlü yapılarının minyatürlerini görebileceğiniz bir açık hava müzesidir. İstanbul'un ve Türkiye'nin tarihi yapıları burada küçük boyutlarda sergilenmektedir.",
+    "address": "Sütlüce Mahallesi, 34445 Beyoğlu/İstanbul",
+    "girisUcreti": "Ücretli"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/474x/6b/24/3e/6b243e57b7a4d97456a2c6c0b02cfa44.jpg",
+    "name": "Aqua Florya",
+    "description": "Aqua Florya, bir alışveriş merkezi ile birlikte bulunan su parkıdır. Hem alışveriş yapabilir hem de su kaydırakları ve havuzlarda eğlenebilirsiniz.",
+    "address": "Florya Mah., 34153 Bakırköy/İstanbul",
+    "girisUcreti": "Ücretli"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/474x/88/a3/60/88a360b2ab5a6f65633a499ef19db9ce.jpg",
+    "name": "Legoland Discovery Center",
+    "description": "Çocuklar için mükemmel bir eğlence alanı olan Legoland, Lego temalı oyuncaklar ve aktivitelerle doludur. Lego şehirleri ve çeşitli interaktif alanlar sunar.",
+    "address": "Bayrampaşa, Forum İstanbul Alışveriş Merkezi, 34045 İstanbul",
+    "girisUcreti": "Ücretli"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/474x/f0/50/27/f0502711874d35dd8a6250880ee28f8e.jpg",
+    "name": "KidZania",
+    "description": "Çocuklara yönelik eğitim ve eğlencenin birleştiği bir park olan KidZania, çocukların yetişkin rollerini oynayarak eğlenmelerini sağlar. Çocuklar, farklı meslekleri denemek için çeşitli aktivitelerle meşgul olabilirler.",
+    "address": "Akbatı Alışveriş Merkezi, Esenyurt/İstanbul",
+    "girisUcreti": "Ücretli"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/474x/da/bd/e0/dabde093739eb993ecd7e926dd2cec0f.jpg",
+    "name": "İstanbul Akvaryum",
+    "description": "Dünya çapında denizaltı hayatını görmek isteyenler için eğlenceli ve öğretici bir alan. Ayrıca tema parklar ve alışveriş merkezleriyle de iç içedir.",
+    "address": "Yeşilköy Mahallesi, 34149 Bakırköy/İstanbul",
+    "girisUcreti": "Ücretli"
+  }
+],"muzeler": [
+  {
+    "imageUrl": "https://i.pinimg.com/736x/28/02/4f/28024fb443f84b82020bd1d3aa388c44.jpg",
+    "name": "İstanbul Arkeoloji Müzesi",
+    "description": "İstanbul Arkeoloji Müzesi, Türkiye'nin en eski ve en kapsamlı arkeoloji müzelerindendir. Müze, tarihe ilgi duyan herkes için eşsiz bir deneyim sunmaktadır.",
+    "address": "Alemdar Mh., 34110 Fatih/İstanbul, Türkiye",
+    "girisUcreti": "340 TL (MüzeKart sahipleri ve 18 yaş altı ile 65 yaş üstü T.C. vatandaşları müzeye ücretsiz giriş yapabilirler.)"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/736x/9d/b4/08/9db408694ad3a027759153632084a3f1.jpg",
+    "name": "Pera Müzesi",
+    "description": "Pera Müzesi, özellikle Osmanlı ve Türk resim sanatına odaklanan koleksiyonlarıyla tanınır. Osmanlı Rönesansı olarak adlandırılan dönemi yansıtan eserler burada sergilenmektedir.",
+    "address": "Asmalı Mescit, Meşrutiyet Cd. No:65, 34430 Beyoğlu/İstanbul",
+    "girisUcreti": "Tam bilet: 200 TL\nİndirimli bilet: 100 TL (12 yaş üstü öğrenciler, öğretim görevlileri, 60 yaş ve üstü ziyaretçilerimiz indirimli biletle müzeyi ziyaret edebilirler.)"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/736x/f4/cb/41/f4cb41a38836f0245c653cb10657082a.jpg",
+    "name": "İstanbul Modern Sanatlar Müzesi",
+    "description": "İstanbul Modern, Türkiye'nin önde gelen çağdaş sanat müzelerindendir. Türk ve uluslararası sanatçıların eserlerini sergileyen müze, sanatseverlere geniş bir kültürel deneyim sunmaktadır.",
+    "address": "Kılıçali Paşa, Tophane İskele Cd. No:1/1, 34433 Beyoğlu/İstanbul",
+    "girisUcreti": "Tam: 450 TL\nİndirimli (Öğrenci, Öğretmen, 65 Yaş Üstündekiler): 250 TL\nGruplar (10 kişi ve üzeri): 250 TL"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/736x/2f/6a/ab/2f6aab9827f30101ade0c73dd64a6302.jpg",
+    "name": "Rahmi Koç Müzesi",
+    "description": "Rahmi Koç Müzesi, İstanbul'da sanayi tarihine adanmış bir müzedir. Hasköy Tersanesi'nde bulunan müze, eski makineler, ulaşım araçları ve endüstriyel objelerle Türkiye'nin sanayi geçmişini sergiler.",
+    "address": "Piri Paşa, Rahmi M. Koç Caddesi No: 3, 34445 Beyoğlu/İstanbul",
+    "girisUcreti": "Yetişkin: 350 TL, Öğrenci: 180 TL, Öğrenci grup: 130 TL"
+  },
+  {
+    "imageUrl": "https://i.pinimg.com/736x/0d/f2/7d/0df27d56b25875ae88a41735d42e8052.jpg",
+    "name": "Sakıp Sabancı Müzesi",
+    "description": "Sakıp Sabancı Müzesi, İstanbul'da yer alan önemli bir sanat ve kültür merkezidir. Sabancı ailesinin koleksiyonlarından oluşan geniş bir sanat galerisine sahip olan müze, hem Türk hem de uluslararası sanatçıların eserlerine ev sahipliği yapmaktadır.",
+    "address": "Emirgan, Sakıp Sabancı Cd. No:42, 34467 Sarıyer/İstanbul",
+    "girisUcreti": "Tam Bilet: 300 TL\nÖğrenci Bileti: 150 TL (12-18 yaş arası öğrenciler için geçerlidir.)\nİndirimli Bilet: 210 TL (18 yaş üzeri öğrenciler, öğretmenler, 65 yaş ve üstü ziyaretçiler için geçerlidir.)"
+  },
+  {
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL71e1ILNwp1A7wicYe6Kq1Hkzda70EId3wQ&s",
+    "name": "İstanbul Oyuncak Müzesi",
+    "description": "İstanbul Oyuncak Müzesi, Türk ve dünya çocuk oyunları ve oyuncaklarını sergileyen bir müzedir. Eski oyuncaklar ile çocukların tarihsel geçmişini tanımak isteyenler için harika bir yerdir.",
+    "address": "Osmanağa, Ömer Avni Mh., 34714 Kadıköy/İstanbul",
+    "girisUcreti": "Yerli Ziyaretçi Bilet Fiyatı: 20 TL, Yabancı Ziyaretçi Bilet Fiyatı: 50 TL"
+  }
+]
+
+}
